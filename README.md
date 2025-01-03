@@ -137,8 +137,6 @@ streamlit run app.py
 
 2. **Compliance Ready**
    - GDPR compliant
-   - HIPAA compatible
-   - SOC 2 ready
 
 ## 🔄 Workflow
 
@@ -168,20 +166,6 @@ streamlit run app.py
    - Custom chunk sizes
    - Format extensions
    - Metadata customization
-
-## 📈 Future Enhancements
-
-1. **Planned Features**
-   - Multi-language support
-   - Advanced document analysis
-   - Enhanced citation system
-   - Custom model integration
-
-2. **Roadmap**
-   - GPU acceleration
-   - Advanced security features
-   - Extended format support
-
 
 ## 📝 License
 

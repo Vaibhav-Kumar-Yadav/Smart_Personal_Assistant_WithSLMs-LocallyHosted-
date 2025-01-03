@@ -212,4 +212,4 @@ See the LICENSE file for details.
 - Sentence Transformers 
 - FAISS
 - Streamlit community
-## Note: Please download latest phi model from huggingface. ![Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct-onnx)
+## Note: Please download the latest Phi model from Hugging Face: [Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct-onnx)

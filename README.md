@@ -47,7 +47,7 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smart-ai-assistant.git
+git clone https://github.com/Vaibhav-Kumar-Yadav/Smart_Personal_Assistant_WithSLMs-LocallyHosted-.git
 cd smart-ai-assistant
 
 # Install dependencies
@@ -208,7 +208,8 @@ See the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
-- Microsoft for the Phi-3 model
+- Microsoft for the Phi-3 
 - Sentence Transformers 
 - FAISS
 - Streamlit community
+## Note: Please download latest phi model from huggingface. ![Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct-onnx)

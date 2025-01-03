@@ -1,0 +1,13 @@
+numpy
+nltk
+gensim
+sentence-transformers
+langchain-community
+torch
+transformers
+streamlit
+faiss-cpu
+pypdf
+huggingface-hub
+llama-cpp-python
+onnxruntime-genai

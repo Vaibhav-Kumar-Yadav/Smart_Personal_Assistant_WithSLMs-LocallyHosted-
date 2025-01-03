@@ -1,0 +1,5 @@
+{
+    "embeddings_model_name": "./model/all-MiniLM-L6-v2",
+    "source_dir": "./data/",
+    "model_name":"./model/phi_3.5_4_onnx"
+}

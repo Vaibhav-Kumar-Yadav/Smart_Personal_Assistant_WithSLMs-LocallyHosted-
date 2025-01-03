@@ -78,25 +78,6 @@ python ingest.py
 streamlit run app.py
 ```
 
-## 📂 Project Structure
-
-```
-project/
-├── app.py              # Main Streamlit application
-├── config.py           # Configuration management
-├── document_loaders.py # Document loading utilities
-├── ingest.py          # Document ingestion script
-├── ingest_utils.py    # Ingestion utilities
-├── logger.py          # Logging configuration
-├── model_handler.py   # Phi-3 model operations
-├── utils.py           # General utilities
-├── config.json        # Configuration file
-├── data/              # Document storage
-└── model/             # Model storage
-    ├── all-MiniLM-L6-v2/
-    └── phi_3.5_4_onnx/
-```
-
 ## 🔒 Security Features
 
 1. **Local Processing**
